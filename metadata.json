@@ -1,0 +1,6 @@
+{
+  "name": "클리어웍스 | 서울·수도권 유리창청소 전문업체",
+  "description": "서울 및 수도권 전지역 아파트·상가·오피스 프리미엄 유리창청소 전문업체 클리어웍스. 무료견적, 비포애프터 시공사례, 실시간 견적계산기, 카카오톡 상담.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
